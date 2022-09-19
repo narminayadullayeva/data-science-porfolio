@@ -44,6 +44,8 @@ python -m ipykernel install --user --name env-3.8.10
 
 - ### Data Analysis and Visualization
 
+- ### Statistical Simulations
+
 - ### Machine Learning
 
 - ### Natural Languaage Processing
