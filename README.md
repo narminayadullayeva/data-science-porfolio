@@ -11,27 +11,22 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Create environments
 
-- On Mac, you can use
+- On Mac, you can use the following shell script
 
 ```
 brew install pyenv-virtualenv
 echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
 source ~/.bash_profile
-```
 
-```
 pyenv install 3.8.10
 pyenv virtualenv 3.8.10 env-3.8.10
-```
 
-```
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
 
 eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
-```
 
 pyenv activate env-3.8.10
 pip install --upgrade pip
