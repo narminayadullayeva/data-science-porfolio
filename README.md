@@ -18,40 +18,30 @@ This portolio consists of several directories:
 - `notebooks` folder contains several Jupyter Notebooks, each of which addresses specific area of interest, topic or skillset. 
 - `data` folder contains some commonly used datasets that are used for demo purposes. 
 
-- ### Micro Projects
+### Micro Projects
   - Bike Sharing Demand Forecast utilizing Autogluon
   - Disaster Message Classifier 
 
-Skills & Tools:
-* Building API, 
-* fast api
-* Javasript
-* CSS
+> **Skills & Tools:** building API, fast api, Javasript, CSS
 
-- ### Notebooks
-- #### 1. Data Analysis and Visualization
-Skills & Tools: Pandas, Matplotlib, Seaborn, Plotly, Folium
-- #### 2. Statistical Simulations, Regression Analysis
-Skills & Tools: A/B Testing, T-tests
-- #### 3. Machine Learning
-Skills & Tools:
-* Deep Learning
-* Linear Regression, Logistic Regression
-* RNN
-* Reinforcement Learning
-- #### 4. Natural Languaage Processing
-Skills & Tools:
-* spacy 
-* NLP feature engineering 
-* Transformers 
-- #### 5. Big Data
-Skills & Tools:
-* PySpark
-* Hadoops
-- #### 6. Optimization 
-- #### 7. Cloud Stacks (AWS Sagemaker, Azure ML)
-- #### 8. Miscellaneous
+### Notebooks
 
+#### 1. Data Analysis and Visualization
+> **Skills & Tools:** Pandas, Matplotlib, Seaborn, Plotly, Folium
+#### 2. Statistical Simulations, Regression Analysis
+> **Skills & Tools:** A/B Testing, T-tests
+#### 3. Machine Learning
+> **Skills & Tools:** Supervised Algorithms (Linear Regression, Logistic Regression, Deep Learning, RNN) Unsupervised Algorithms (Clustering), Reinforcement Learning.
+#### 4. Natural Languaage Processing
+> **Skills & Tools:** spacy, nltk, NLP feature engineering, transformers 
+#### 5. Big Data
+> **Skills & Tools:** PySpark, Hadoops
+#### 6. Optimization 
+> **Skills & Tools:** Linear/Non-linear Programming, Integer Programming, PuLP library
+#### 7. Cloud Technology Stacks 
+> **Skills & Tools:** AWS Sagemaker, Azure Machine Learning 
+#### 8. Miscellaneous
+> **Skills & Tools:** Code optimization using JIT
 
 ---
 
