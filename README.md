@@ -45,10 +45,6 @@ This portolio consists of several directories:
 
 ---
 
-If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
-
-
-
 ## Create environments
 
 - If using Mac, you may use the following shell script to setup your custom environment:
@@ -73,3 +69,8 @@ pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m ipykernel install --user --name env-3.8.10
 ```
+
+---
+
+If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
+
