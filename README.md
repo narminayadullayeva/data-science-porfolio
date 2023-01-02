@@ -6,12 +6,62 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Instructions for Running Python Notebooks Locally
 
-1. Install dependencies using requirements.txt.
-2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+1. Create an isolated custom environment (recommended - see instructions below)
+2. Install dependencies using requirements.txt.
+3. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+
+
+## Contents
+
+This portolio consists of several directories:
+- `projects` folder contains various stand-alone microprojects I've been working on during my learning journey
+- `notebooks` folder contains several Jupyter Notebooks, each of which addresses specific area of interest, topic or skillset. 
+- `data` folder contains some commonly used datasets that are used for demo purposes. 
+
+- ### Micro Projects
+  - Bike Sharing Demand Forecast utilizing Autogluon
+  - Disaster Message Classifier 
+
+Skills & Tools:
+* Building API, 
+* fast api
+* Javasript
+* CSS
+
+- ### Notebooks
+- #### 1. Data Analysis and Visualization
+Skills & Tools: Pandas, Matplotlib, Seaborn, Plotly, Folium
+- #### 2. Statistical Simulations, Regression Analysis
+Skills & Tools: A/B Testing, T-tests
+- #### 3. Machine Learning
+Skills & Tools:
+* Deep Learning
+* Linear Regression, Logistic Regression
+* RNN
+* Reinforcement Learning
+- #### 4. Natural Languaage Processing
+Skills & Tools:
+* spacy 
+* NLP feature engineering 
+* Transformers 
+- #### 5. Big Data
+Skills & Tools:
+* PySpark
+* Hadoops
+- #### 6. Optimization 
+- #### 7. Cloud Stacks (AWS Sagemaker, Azure ML)
+- #### 8. Miscellaneous
+
+
+---
+
+If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
+
+
 
 ## Create environments
 
-- On Mac, you can use the following shell script
+- If using Mac, you may use the following shell script to setup your custom environment:
 
 ```
 brew install pyenv-virtualenv
@@ -32,43 +82,4 @@ pyenv activate env-3.8.10
 pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m ipykernel install --user --name env-3.8.10
-
-```
-
-## Contents
-
-- ### Data Analysis and Visualization
-Skills & Tools: Pandas, Matplotlib, Seaborn, Plotly, Folium
-
-- ### Statistical Analysis. Simulations
-Skills & Tools: A/B Testing, T-tests
-
-- ### Machine Learning
-Skills & Tools:
-* Deep Learning
-* Linear Regression, Logistic Regression
-* RNN
-
-- ### Natural Languaage Processing
-Skills & Tools:
-* spacy 
-* NLP feature engineering 
-* Transformers 
-
-- ### Big Data
-Skills & Tools:
-* PySpark
-* Hadoop
-
-- ### Micro Projectskk
-Skills & Tools:
-* Building API, 
-* fast api
-* Javasript
-* CSS
-
-
----
-
-If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
 ```
