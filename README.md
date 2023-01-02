@@ -38,14 +38,37 @@ python -m ipykernel install --user --name env-3.8.10
 ## Contents
 
 - ### Data Analysis and Visualization
+Skills & Tools: Pandas, Matplotlib, Seaborn, Plotly, Folium
 
-- ### Statistical Simulations
+- ### Statistical Analysis. Simulations
+Skills & Tools: A/B Testing, T-tests
 
 - ### Machine Learning
+Skills & Tools:
+* Deep Learning
+* Linear Regression, Logistic Regression
+* RNN
 
 - ### Natural Languaage Processing
+Skills & Tools:
+* spacy 
+* NLP feature engineering 
+* Transformers 
 
-- ### Micro Projects
+- ### Big Data
+Skills & Tools:
+* PySpark
+* Hadoop
+
+- ### Micro Projectskk
+Skills & Tools:
+* Building API, 
+* fast api
+* Javasript
+* CSS
+
+
+---
 
 If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
 ```
