@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science / Machine Learning Portfolio
 
 Repository containing portfolio of data science projects done by me for self-learning and hobby purposes. Each mini project is presented via Jupyter Notebook and associated Python scripts.
 
