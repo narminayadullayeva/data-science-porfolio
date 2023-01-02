@@ -43,7 +43,6 @@ This portolio consists of several directories:
 #### 8. Miscellaneous
 > **Skills & Tools:** Code optimization using JIT
 
----
 
 ## Create environments
 
@@ -71,6 +70,6 @@ python -m ipykernel install --user --name env-3.8.10
 ```
 
 ---
-
+ 
 If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
 
