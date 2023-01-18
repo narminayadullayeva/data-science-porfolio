@@ -20,6 +20,7 @@ This portolio consists of several directories:
 
 ### Micro Projects
   - Bike Sharing Demand Forecast utilizing Autogluon
+  - Deploying 
   - Disaster Message Classifier 
 
 > **Skills & Tools:** building API, fast api, Javasript, CSS
