@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science / Machine Learning Portfolio
 
 Repository containing portfolio of data science projects done by me for self-learning and hobby purposes. Each mini project is presented via Jupyter Notebook and associated Python scripts.
 
@@ -6,12 +6,48 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Instructions for Running Python Notebooks Locally
 
-1. Install dependencies using requirements.txt.
-2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+1. Create an isolated custom environment (recommended - see instructions below)
+2. Install dependencies using requirements.txt.
+3. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
+
+
+## Contents
+
+This portolio consists of several directories:
+- `projects` folder contains various stand-alone microprojects I've been working on during my learning journey
+- `notebooks` folder contains several Jupyter Notebooks, each of which addresses specific area of interest, topic or skillset. 
+- `data` folder contains some commonly used datasets that are used for demo purposes. 
+
+### Micro Projects
+  - Bike Sharing Demand Forecast utilizing Autogluon
+  - Deploying 
+  - Disaster Message Classifier 
+
+> **Skills & Tools:** building API, fast api, Javasript, CSS
+
+### Notebooks
+
+#### 1. Data Analysis and Visualization
+> **Skills & Tools:** Pandas, Matplotlib, Seaborn, Plotly, Folium
+#### 2. Statistical Simulations, Regression Analysis
+> **Skills & Tools:** A/B Testing, T-tests
+#### 3. Machine Learning
+> **Skills & Tools:** Supervised Algorithms (Linear Regression, Logistic Regression, Deep Learning, RNN) Unsupervised Algorithms (Clustering), Reinforcement Learning.
+#### 4. Natural Languaage Processing
+> **Skills & Tools:** spacy, nltk, NLP feature engineering, transformers 
+#### 5. Big Data
+> **Skills & Tools:** PySpark, Hadoops
+#### 6. Optimization 
+> **Skills & Tools:** Linear/Non-linear Programming, Integer Programming, PuLP library
+#### 7. Cloud Technology Stacks 
+> **Skills & Tools:** AWS Sagemaker, Azure Machine Learning 
+#### 8. Miscellaneous
+> **Skills & Tools:** Code optimization using JIT
+
 
 ## Create environments
 
-- On Mac, you can use the following shell script
+- If using Mac, you may use the following shell script to setup your custom environment:
 
 ```
 brew install pyenv-virtualenv
@@ -32,20 +68,9 @@ pyenv activate env-3.8.10
 pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m ipykernel install --user --name env-3.8.10
-
 ```
 
-## Contents
-
-- ### Data Analysis and Visualization
-
-- ### Statistical Simulations
-
-- ### Machine Learning
-
-- ### Natural Languaage Processing
-
-- ### Micro Projects
-
+---
+ 
 If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
-```
+
