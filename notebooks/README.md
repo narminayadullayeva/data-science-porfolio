@@ -16,6 +16,8 @@
 
 **2.3. PyMC for Bayesian Modeling and Inference &larr;**    <span style='color:orange'>**In Progress**</span>
 
+**2.4. A/B Testing. Sample size selection. &larr;**    <span style='color:orange'>**In Progress**</span>
+
 > **Skills & Tools:** A/B Testing, T-tests
 
 <br>
