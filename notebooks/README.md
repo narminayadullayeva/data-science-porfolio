@@ -1,43 +1,68 @@
 # Notebooks: Contents
 
-## 1. Data Analysis and Visualization
+### 1. Data Analysis and Visualization
 
-#### 1.2. Cleaning Datasets &larr; <span style='color:red'>**Needs Review**</span>
-
+**1.2. Cleaning Datasets &larr;**    <span style='color:red'>**Needs Review**</span>
+    
 > **Skills & Tools:** Pandas, Matplotlib, Seaborn, Plotly, Folium
 
-## 2. Statistical Simulations, Regression Analysis
+<br>
 
-#### 2.1. Statistical Simulations
+### 2. Statistical Simulations, Regression Analysis
 
-#### 2.2. Regressions with Statsmodel library
+**2.1. Statistical Simulations &larr;**    <span style='color:orange'>**In Progress**</span>
+
+**2.2. Regressions with Statsmodel library &larr;**    <span style='color:red'>**Not Available Yet**</span>
 
 > **Skills & Tools:** A/B Testing, T-tests
 
-## 3. Machine Learning
+<br>
 
-> **Skills & Tools:** Supervised Algorithms (Linear Regression, Logistic Regression, Deep Learning, RNN) Unsupervised Algorithms (Clustering), Reinforcement Learning.
+### 3. Machine Learning
 
-## 4. Natural Languaage Processing
+**3.5. Building Classifier using Autogluon (Wine, Diabetes datasets) &larr;**    <span style='color:green'>**Done**</span>
+
+
+> **Skills & Tools:** Supervised Algorithms (Linear Regression, Logistic Regression, Deep Learning, RNN) Unsupervised Algorithms (Clustering), Reinforcement Learning; AutoML (Autogluon)
+
+<br>
+
+### 4. Natural Languaage Processing
+
+
+**4.1. NLP - Fake Job Posting &larr;**    <span style='color:orange'>**In Progress**</span>
+
+**4.2. NLP - Sentiment Analysis &larr;**    <span style='color:red'>**Not Available Yet**</span>
+
 
 > **Skills & Tools:** spacy, nltk, NLP feature engineering, transformers
 
-## 5. Big Data
+<br>
+
+### 5. Big Data
 
 > **Skills & Tools:** PySpark, Hadoops
 
-## 6. Optimization
+<br>
+
+### 6. Optimization
+
+**6.1. Supply Chain Optimization &larr;**    <span style='color:orange'>**In Progress**</span>
 
 > **Skills & Tools:** Linear/Non-linear Programming, Integer Programming, PuLP library
 
-## 7. Cloud Technology Stacks
+<br>
+
+### 7. Cloud Technology Stacks
 
 > **Skills & Tools:** AWS Sagemaker, Azure Machine Learning
 
-## 8. Miscellaneous
+<br>
 
-#### 8.1. Using Causal Impact to assess an impact of intervention &larr; <span style='color:green'>**Done**</span>
+### 8. Miscellaneous
 
-#### 8.2. Code Runtime optimization using JIT / numba &larr; <span style='color:red'>**Not Available Yet**</span>
+**8.1. Using Causal Impact to assess an impact of intervention &larr;**    <span style='color:green'>**Done**</span>
+
+**8.2. Code Runtime optimization using JIT / numba &larr;**    <span style='color:green'>**Done**</span>
 
 > **Skills & Tools:** Causal Inference, Code optimization using JIT compilation & numba
