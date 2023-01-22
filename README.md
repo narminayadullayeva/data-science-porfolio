@@ -21,10 +21,10 @@ This portolio consists of several directories:
 ### Micro Projects
 
 - Bike Sharing Demand Forecast utilizing Autogluon
-- Deploying
+- Training and Deploying Image Classifier on AWS
 - Disaster Message Classifier
 
-> **Skills & Tools:** building API, fast api, Javasript, CSS
+> **Skills & Tools:** building API, fast api, Javasript, CSS, AWS (Sagemaker, Lambda, Step Functions)
 
 ### Notebooks
 
