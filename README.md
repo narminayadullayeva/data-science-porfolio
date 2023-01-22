@@ -10,40 +10,55 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 2. Install dependencies using requirements.txt.
 3. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
-
 ## Contents
 
 This portolio consists of several directories:
+
 - `projects` folder contains various stand-alone microprojects I've been working on during my learning journey
-- `notebooks` folder contains several Jupyter Notebooks, each of which addresses specific area of interest, topic or skillset. 
-- `data` folder contains some commonly used datasets that are used for demo purposes. 
+- `notebooks` folder contains several Jupyter Notebooks, each of which addresses specific area of interest, topic or skillset.
+- `data` folder contains some commonly used datasets that are used for demo purposes.
 
 ### Micro Projects
-  - Bike Sharing Demand Forecast utilizing Autogluon
-  - Deploying 
-  - Disaster Message Classifier 
+
+- Bike Sharing Demand Forecast utilizing Autogluon
+- Deploying
+- Disaster Message Classifier
 
 > **Skills & Tools:** building API, fast api, Javasript, CSS
 
 ### Notebooks
 
 #### 1. Data Analysis and Visualization
-> **Skills & Tools:** Pandas, Matplotlib, Seaborn, Plotly, Folium
-#### 2. Statistical Simulations, Regression Analysis
-> **Skills & Tools:** A/B Testing, T-tests
-#### 3. Machine Learning
-> **Skills & Tools:** Supervised Algorithms (Linear Regression, Logistic Regression, Deep Learning, RNN) Unsupervised Algorithms (Clustering), Reinforcement Learning.
-#### 4. Natural Languaage Processing
-> **Skills & Tools:** spacy, nltk, NLP feature engineering, transformers 
-#### 5. Big Data
-> **Skills & Tools:** PySpark, Hadoops
-#### 6. Optimization 
-> **Skills & Tools:** Linear/Non-linear Programming, Integer Programming, PuLP library
-#### 7. Cloud Technology Stacks 
-> **Skills & Tools:** AWS Sagemaker, Azure Machine Learning 
-#### 8. Miscellaneous
-> **Skills & Tools:** Code optimization using JIT
 
+> **Skills & Tools:** Pandas, Matplotlib, Seaborn, Plotly, Folium
+
+#### 2. Statistical Simulations, Regression Analysis
+
+> **Skills & Tools:** A/B Testing, T-tests
+
+#### 3. Machine Learning
+
+> **Skills & Tools:** Supervised Algorithms (Linear Regression, Logistic Regression, Deep Learning, RNN) Unsupervised Algorithms (Clustering), Reinforcement Learning.
+
+#### 4. Natural Languaage Processing
+
+> **Skills & Tools:** spacy, nltk, NLP feature engineering, transformers
+
+#### 5. Big Data
+
+> **Skills & Tools:** PySpark, Hadoops
+
+#### 6. Optimization
+
+> **Skills & Tools:** Linear/Non-linear Programming, Integer Programming, PuLP library
+
+#### 7. Cloud Technology Stacks
+
+> **Skills & Tools:** AWS Sagemaker, Azure Machine Learning
+
+#### 8. Miscellaneous
+
+> **Skills & Tools:** Causal Inference, Code optimization using JIT
 
 ## Create environments
 
@@ -71,6 +86,5 @@ python -m ipykernel install --user --name env-3.8.10
 ```
 
 ---
- 
-If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
 
+If you want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at narmina.yadullayeva@gmail.com.
