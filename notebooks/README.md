@@ -14,6 +14,8 @@
 
 **2.2. Regressions with Statsmodel library &larr;**    <span style='color:red'>**Not Available Yet**</span>
 
+**2.3. PyMC for Bayesian Modeling and Inference &larr;**    <span style='color:orange'>**In Progress**</span>
+
 > **Skills & Tools:** A/B Testing, T-tests
 
 <br>
