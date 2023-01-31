@@ -62,7 +62,8 @@ This portolio consists of several directories:
 
 ## Create environments
 
-- If using Mac, you may use the following shell script to setup your custom environment:
+### Mac
+If using Mac OS, you may use the following shell script to setup your custom environment:
 
 ```
 brew install pyenv-virtualenv
@@ -83,6 +84,19 @@ pyenv activate env-3.8.10
 pip install --upgrade pip
 python -m pip install -r requirements.txt
 python -m ipykernel install --user --name env-3.8.10
+```
+
+### Windows
+If using Windows OS, you may use the following Powershell script to setup your custom environment:
+
+```
+python -m venv my_env
+./my_env/Scripts/activate
+
+python -m pip install --upgrade pip 
+python -m pip install -r requirements.txt --trusted-host=objects.githubusercontent.com  --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org 
+python -m pip install -e .
+python -m ipykernel install --user --name my_env
 ```
 
 ---
