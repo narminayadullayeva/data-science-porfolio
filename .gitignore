@@ -129,5 +129,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+notebooks/3_machine_learning/data*
 *MNIST/
