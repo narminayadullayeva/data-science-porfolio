@@ -58,7 +58,13 @@
 
 ### 7. Cloud Technology Stacks
 
-> **Skills & Tools:** AWS Sagemaker, Azure Machine Learning
+**7.1. Sentiment Analysis using AWS Trained Model (XGBoost) &larr;** <span style='color:green'>**Done**</span>
+
+**7.2. Training CNN (PyTorch) on MNIST dataset using AWS Sagemaker Training Job &larr;** <span style='color:green'>**Done**</span>
+
+**7.3. Training CNN (PyTorch) on CIFAR dataset using AWS Sagemaker Training Job &larr;** <span style='color:green'>**Done**</span>
+
+> **Skills & Tools:** AWS Sagemaker, Azure Machine Learning, PyTorch, Docker
 
 <br>
 
