@@ -131,3 +131,11 @@ dmypy.json
 
 notebooks/3_machine_learning/data*
 *MNIST/
+
+
+*.jpg
+*.jpeg
+
+xtra*
+
+*.tar
